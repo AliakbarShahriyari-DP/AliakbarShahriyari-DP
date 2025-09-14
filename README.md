@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aliakbar Shahriyarpanah
+# Hi guys <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1scGh5N2ptejZoa2QxaDVhbDRkdDUzeGRhaTZmN2Y1cDFwM2ZiayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hDSGolpaNZTK9OQJqk/giphy.gif" alt="Waving Hand" width="90" style="vertical-align: middle">, I'm Aliakbar Shahriyarpanah
 
 ### 🌍 **About Me**
 Web Developer 👨‍💻| Skilled in HTML, CSS, JavaScript 🚀| Dedicated to designing clean, responsive, and modern web applications ✨
@@ -12,5 +12,8 @@ Web Developer 👨‍💻| Skilled in HTML, CSS, JavaScript 🚀| Dedicated to d
   <img src="https://github.com/user-attachments/assets/08258f12-018d-48e7-8fdc-4bc3a93d2855" alt="javaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/>
   <img  height="50" alt="git hub" src="https://github.com/user-attachments/assets/f2b9421a-8bd8-4578-b129-68a2c3c8e1ef" width="50" style="filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50"/>
 </div> 
+
+----
+
+#### The web is my canvas, and code is my brush. 🎨💻
