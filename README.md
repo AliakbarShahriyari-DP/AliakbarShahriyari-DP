@@ -1,4 +1,4 @@
-# Hi guys <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1scGh5N2ptejZoa2QxaDVhbDRkdDUzeGRhaTZmN2Y1cDFwM2ZiayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hDSGolpaNZTK9OQJqk/giphy.gif" alt="Waving Hand" width="90" style="vertical-align: middle">, I'm Aliakbar Shahriyarpanah
+# Hi guys<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnkybmtwZ2U4bXB4djkxeW0ybTNqNXhzdWhwOHMzaWRreWRvcTdoYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YSlD6I04v4s9pgwPcT/giphy.gif" width="90" style="vertical-align: middle">, I'm Aliakbar Shahriyarpanah
 
 ### 🌍 **About Me**
 Web Developer 👨‍💻| Skilled in HTML, CSS, JavaScript 🚀| Dedicated to designing clean, responsive, and modern web applications ✨
