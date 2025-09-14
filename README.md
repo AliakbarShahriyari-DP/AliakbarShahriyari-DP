@@ -1,10 +1,11 @@
 # Hi 👋, I'm Aliakbar Shahriyarpanah
 
-#### 🌍 **About Me**
+### 🌍 **About Me**
 Web Developer 👨‍💻| Skilled in HTML, CSS, JavaScript 🚀| Dedicated to designing clean, responsive, and modern web applications ✨
+
 ---
 
-<h2>🚀<b>Skills</b></h4>
+<h3>🚀<b>Skills</b></h4>
 <div style="margin-bottom: 30px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" style="margin-bottom:7px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
