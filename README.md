@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3p4d3Bxc3FkZTg1N3V6NnppNXh6MW05MWk3bjlsZHV6cmJycmE1diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/yl3XErRq8qmmA/giphy.gif" width="80%" height="30%">
+</div>
+
 # Hi guys<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnkybmtwZ2U4bXB4djkxeW0ybTNqNXhzdWhwOHMzaWRreWRvcTdoYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YSlD6I04v4s9pgwPcT/giphy.gif" width="60" style="vertical-align: middle;">, I'm Aliakbar Shahriyarpanah
 
 ### 🌍 **About Me**
