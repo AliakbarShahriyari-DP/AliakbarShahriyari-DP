@@ -20,4 +20,12 @@ Web Developer 👨‍💻| Skilled in HTML, CSS, JavaScript 🚀| Dedicated to d
 
 ----
 
+<h3>💪<b>My Activity </b></h3>
+<div style="display: flex; gap: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliakbarShahriyari-DP&show_icons=true&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarShahriyari-DP&hide_progress=true"/>
+</div>
+
+---
+
 #### The web is my canvas, and code is my brush. 🎨💻
