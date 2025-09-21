@@ -20,9 +20,8 @@
 ----
 
 <h3>💪<b>My Activity </b></h3>
-<div style="display: flex; gap: 40px;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=AliakbarShahriyari-DP&show_icons=true&theme=merko"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarShahriyari-DP&hide_progress=true"/>
 </div>
 
 ---
