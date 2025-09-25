@@ -21,8 +21,9 @@
 ----
 
 <h3>💪<b>My Activity </b></h3>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliakbarShahriyari-DP&show_icons=true&theme=merko"/>
+<div style="display: flex; justify-content: center;align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliakbarShahriyari-DP&theme=chartreuse-dark&show_icons=true" height="200" width="412"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarShahriyari-DP&layout=compact&theme=chartreuse-dark" height="173" width="412"/>
 </div>
 
 ---
